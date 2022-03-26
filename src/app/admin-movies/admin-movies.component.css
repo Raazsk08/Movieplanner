@@ -1,0 +1,12 @@
+.bge{
+    background: url("https://wallpapercave.com/wp/wp2610904.jpg");
+background-size: cover;
+  }
+.movie_poster{
+    width: 100px;
+}
+.movieDetail{
+    border: 1px solid rgb(15, 15, 15);
+    margin: 10px 2px;
+    padding: 8px;
+}

@@ -1,0 +1,32 @@
+.bge{
+    background: url("https://wallpaperaccess.com/full/2709058.jpg");
+background-size: cover;
+  }
+  .choosenmovie{color: rgb(1, 1, 20);
+    text-align: left;
+    padding-right: 10%;
+
+
+  }
+.chooseDiv{
+    color: rgb(155, 203, 245);
+    text-size-adjust: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 55px 15px;
+    padding-top: 5%;
+    padding-right:40px;
+    padding-left: 50%;
+}
+.chooseForm{
+    border: 2px solid rgb(19, 83, 109);
+    padding: 35px 20px;
+}
+.dateInput{
+    width: 200px;
+}
+.timeInput{
+    width: 200px;
+}

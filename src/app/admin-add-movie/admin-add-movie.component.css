@@ -1,0 +1,13 @@
+.bge{
+    background: url("https://wallpapercave.com/wp/wp2610904.jpg");
+background-size: cover;
+  }
+.editBox{
+    max-width: 600px;
+}
+.edit-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}

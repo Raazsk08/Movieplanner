@@ -1,0 +1,39 @@
+ul{
+    float:right;
+    margin-top:20px;
+    margin-right:10px;
+    }
+    
+    ul li{
+    display:inline-block;
+    list-style-type:none;
+    margin-left:10px;
+    
+    }
+    
+    ul li a{
+    text-decoration:none;
+    color:#efedf1e8;
+    padding:5px 10px 5px 10px;
+    border:1px;
+    border-radius:5px;
+    
+    }
+    
+    ul li a:hover{
+    background-color:#d4570498;
+    color:rgb(12, 7, 22);
+    transition:0.5s ease;
+    }
+    
+    ul li.active a{
+    
+    background-color:#079140;
+    color:white;
+    }
+    .dropdown-item{
+        background-color: #2b2a27;
+    }
+    .main{
+        width: 130px;
+    }
